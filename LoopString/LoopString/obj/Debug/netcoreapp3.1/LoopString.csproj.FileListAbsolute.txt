@@ -1,0 +1,11 @@
+D:\Progs\LoopString\LoopString\bin\Debug\netcoreapp3.1\LoopString.exe
+D:\Progs\LoopString\LoopString\bin\Debug\netcoreapp3.1\LoopString.deps.json
+D:\Progs\LoopString\LoopString\bin\Debug\netcoreapp3.1\LoopString.runtimeconfig.json
+D:\Progs\LoopString\LoopString\bin\Debug\netcoreapp3.1\LoopString.runtimeconfig.dev.json
+D:\Progs\LoopString\LoopString\bin\Debug\netcoreapp3.1\LoopString.dll
+D:\Progs\LoopString\LoopString\bin\Debug\netcoreapp3.1\LoopString.pdb
+D:\Progs\LoopString\LoopString\obj\Debug\netcoreapp3.1\LoopString.csprojAssemblyReference.cache
+D:\Progs\LoopString\LoopString\obj\Debug\netcoreapp3.1\LoopString.AssemblyInfoInputs.cache
+D:\Progs\LoopString\LoopString\obj\Debug\netcoreapp3.1\LoopString.AssemblyInfo.cs
+D:\Progs\LoopString\LoopString\obj\Debug\netcoreapp3.1\LoopString.dll
+D:\Progs\LoopString\LoopString\obj\Debug\netcoreapp3.1\LoopString.pdb

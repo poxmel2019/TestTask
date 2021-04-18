@@ -1,0 +1,11 @@
+D:\Progs\Arrows\Arrows\bin\Debug\netcoreapp3.1\Arrows.exe
+D:\Progs\Arrows\Arrows\bin\Debug\netcoreapp3.1\Arrows.deps.json
+D:\Progs\Arrows\Arrows\bin\Debug\netcoreapp3.1\Arrows.runtimeconfig.json
+D:\Progs\Arrows\Arrows\bin\Debug\netcoreapp3.1\Arrows.runtimeconfig.dev.json
+D:\Progs\Arrows\Arrows\bin\Debug\netcoreapp3.1\Arrows.dll
+D:\Progs\Arrows\Arrows\bin\Debug\netcoreapp3.1\Arrows.pdb
+D:\Progs\Arrows\Arrows\obj\Debug\netcoreapp3.1\Arrows.csprojAssemblyReference.cache
+D:\Progs\Arrows\Arrows\obj\Debug\netcoreapp3.1\Arrows.AssemblyInfoInputs.cache
+D:\Progs\Arrows\Arrows\obj\Debug\netcoreapp3.1\Arrows.AssemblyInfo.cs
+D:\Progs\Arrows\Arrows\obj\Debug\netcoreapp3.1\Arrows.dll
+D:\Progs\Arrows\Arrows\obj\Debug\netcoreapp3.1\Arrows.pdb

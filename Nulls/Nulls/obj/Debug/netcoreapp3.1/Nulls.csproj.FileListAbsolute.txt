@@ -1,0 +1,11 @@
+D:\Progs\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.exe
+D:\Progs\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.deps.json
+D:\Progs\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.runtimeconfig.json
+D:\Progs\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.runtimeconfig.dev.json
+D:\Progs\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.dll
+D:\Progs\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.pdb
+D:\Progs\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.csprojAssemblyReference.cache
+D:\Progs\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.AssemblyInfoInputs.cache
+D:\Progs\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.AssemblyInfo.cs
+D:\Progs\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.dll
+D:\Progs\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.pdb
