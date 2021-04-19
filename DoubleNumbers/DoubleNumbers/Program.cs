@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.IO;
 
 namespace DoubleNumbers
 {
@@ -6,7 +8,11 @@ namespace DoubleNumbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            
+
+            Console.ReadLine();
+           
         }
     }
 }

@@ -1,0 +1,13 @@
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\bin\Debug\netcoreapp3.1\HairyBuisness.exe
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\bin\Debug\netcoreapp3.1\HairyBuisness.deps.json
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\bin\Debug\netcoreapp3.1\HairyBuisness.runtimeconfig.json
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\bin\Debug\netcoreapp3.1\HairyBuisness.runtimeconfig.dev.json
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\bin\Debug\netcoreapp3.1\HairyBuisness.dll
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\bin\Debug\netcoreapp3.1\HairyBuisness.pdb
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\obj\Debug\netcoreapp3.1\HairyBuisness.csprojAssemblyReference.cache
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\obj\Debug\netcoreapp3.1\HairyBuisness.AssemblyInfoInputs.cache
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\obj\Debug\netcoreapp3.1\HairyBuisness.AssemblyInfo.cs
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\obj\Debug\netcoreapp3.1\HairyBuisness.csproj.CoreCompileInputs.cache
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\obj\Debug\netcoreapp3.1\HairyBuisness.dll
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\obj\Debug\netcoreapp3.1\HairyBuisness.pdb
+C:\testTask\TestTask\HairyBuisness\HairyBuisness\obj\Debug\netcoreapp3.1\HairyBuisness.genruntimeconfig.cache

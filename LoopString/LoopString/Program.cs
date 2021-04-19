@@ -9,16 +9,19 @@ namespace LoopString
         static void Main(string[] args)
         {
             string text = File.ReadAllText("D:\\Progs\\LoopString\\INPUT.TXT");
-            HashSet<char> set = new HashSet<char>();
+
+            // Максимально возможная длина подстроки будет равно количеству уникальных (неповторяющихся) значений этой строки
+
+            HashSet<char> set = new HashSet<char>(); // Поэтому создадим коллекцию множество
            
 
             for (int i = 0; i < text.Length; i++)
             {
-                set.Add(text[i]);
+                set.Add(text[i]); // Добавим туда значения 
 
             }
 
-            File.WriteAllText("D:\\Progs\\LoopString\\OUTPUT.TXT", set.Count.ToString());
+            File.WriteAllText("D:\\Progs\\LoopString\\OUTPUT.TXT", set.Count.ToString()); //Запишем в файл длину множества, т.е. результат
 
 
            

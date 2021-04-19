@@ -1,0 +1,13 @@
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\bin\Debug\netcoreapp3.1\DoubleNumbers.exe
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\bin\Debug\netcoreapp3.1\DoubleNumbers.deps.json
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\bin\Debug\netcoreapp3.1\DoubleNumbers.runtimeconfig.json
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\bin\Debug\netcoreapp3.1\DoubleNumbers.runtimeconfig.dev.json
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\bin\Debug\netcoreapp3.1\DoubleNumbers.dll
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\bin\Debug\netcoreapp3.1\DoubleNumbers.pdb
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\obj\Debug\netcoreapp3.1\DoubleNumbers.csprojAssemblyReference.cache
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\obj\Debug\netcoreapp3.1\DoubleNumbers.AssemblyInfoInputs.cache
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\obj\Debug\netcoreapp3.1\DoubleNumbers.AssemblyInfo.cs
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\obj\Debug\netcoreapp3.1\DoubleNumbers.csproj.CoreCompileInputs.cache
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\obj\Debug\netcoreapp3.1\DoubleNumbers.dll
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\obj\Debug\netcoreapp3.1\DoubleNumbers.pdb
+C:\testTask\TestTask\DoubleNumbers\DoubleNumbers\obj\Debug\netcoreapp3.1\DoubleNumbers.genruntimeconfig.cache

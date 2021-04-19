@@ -9,3 +9,16 @@ D:\Progs\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.c
 D:\Progs\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
 D:\Progs\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
 D:\Progs\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\testTask\TestTask\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\testTask\TestTask\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\testTask\TestTask\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\testTask\TestTask\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\testTask\TestTask\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\testTask\TestTask\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\testTask\TestTask\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csprojAssemblyReference.cache
+C:\testTask\TestTask\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\testTask\TestTask\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\testTask\TestTask\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\testTask\TestTask\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\testTask\TestTask\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\testTask\TestTask\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
